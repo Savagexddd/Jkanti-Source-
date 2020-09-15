@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jkAnti.Server", "jkAnti\jkAnti.Server.csproj", "{58FE1482-DF57-4D78-B49C-882C6C8DC362}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jkAnti.Client", "jkAnti.Client\jkAnti.Client.csproj", "{746634BC-F938-482E-BFCA-74F6EB69A269}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58FE1482-DF57-4D78-B49C-882C6C8DC362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58FE1482-DF57-4D78-B49C-882C6C8DC362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58FE1482-DF57-4D78-B49C-882C6C8DC362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58FE1482-DF57-4D78-B49C-882C6C8DC362}.Release|Any CPU.Build.0 = Release|Any CPU
+		{746634BC-F938-482E-BFCA-74F6EB69A269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{746634BC-F938-482E-BFCA-74F6EB69A269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{746634BC-F938-482E-BFCA-74F6EB69A269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{746634BC-F938-482E-BFCA-74F6EB69A269}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDB07EEB-5DDE-4D2C-8D97-2F7EC7B040EC}
+	EndGlobalSection
+EndGlobal
