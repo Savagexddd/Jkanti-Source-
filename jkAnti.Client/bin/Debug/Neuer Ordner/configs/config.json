@@ -1,0 +1,8 @@
+{
+  "licenseKey": "4240-5166-7211-4652",
+  "discordWebhook": "https://discordapp.com/api/webhooks/720695739126382715/kwVSy1uDK-C_QkrPXg0jQbzXBryPdEm4wc70FgfKJBcUQIBnfrKPbDq04R7qaLhIBNZL",
+  "enableGlobalBanlist": true,
+  "godmodeCheck": true,
+  "BaseCheck": true,
+  "admins": ["steam:11000011300e27a"]
+}
